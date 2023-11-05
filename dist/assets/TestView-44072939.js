@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as _}from"./index-4fb1f27a.js";const c={},o={class:"test"},n=_("h1",null,"Change text by iPad",-1),a=[n];function r(i,d){return t(),s("div",o,a)}const f=e(c,[["render",r]]);export{f as default};
